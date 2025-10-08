@@ -15,3 +15,15 @@ This section contains PowerShell, Bash, and Python scripts for IT operations and
 ---
 
 ⭐ **Skills:** PowerShell, Bash, Python, Microsoft 365, Linux Admin
+
+
+## Artifacts
+- `/docs/` step-by-step with screenshots
+- `/scripts/` repeatable automation
+- `/dashboards/` sample JSON/PBIX (if relevant)
+- `/templates/` redacted policies/SOPs
+
+---
+**Contact**  
+- Email: **suresh@echand.com**  
+- LinkedIn: **linkedin.com/in/sureshchand01**
