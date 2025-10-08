@@ -6,10 +6,10 @@ This section contains PowerShell, Bash, and Python scripts for IT operations and
 - **M365 License Audit** — [M365 / Ops Scripts →](https://github.com/suresh-1001/tools-monorepo/tree/main/m365-scripts)
   PowerShell script to track unused/assigned licenses in Microsoft 365.
 
-- **Conditional Access Audit** — [M365 / Ops Scripts →](https://github.com/suresh-1001/tools-monorepo/tree/main/m365-scripts)
+- **Conditional Access Audit** — [PowerShell script →](https://github.com/suresh-1001/tools-monorepo/tree/main/m365-scripts)
   PowerShell script that exports Conditional Access policies for compliance evidence.
 
-- **Backup Rotation Script** — [M365 / Ops Scripts →](https://github.com/suresh-1001/tools-monorepo/tree/main/m365-scripts)
+- **Backup Rotation Script** — [Bash script for daily log →](https://github.com/suresh-1001/tools-monorepo/tree/main/m365-scripts)
   Bash script for daily log archiving with 7-day rotation.
 
 ---
